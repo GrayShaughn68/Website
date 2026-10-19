@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#004c54">
+  <meta name="description" content="A warm, self-aware field guide to the rituals, vocabulary, and emotional endurance of Philadelphia Eagles fandom.">
+  <title>A Guide to Being a Philadelphia Eagles Fan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Birds, a field guide to Eagles fandom">
+      <span class="wordmark-mark" aria-hidden="true">B</span>
+      <span><strong>BIRDS</strong><small>A FIELD GUIDE</small></span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="#starter">The basics</a>
+      <a href="#rituals">Rituals</a>
+      <a href="#glossary">Glossary</a>
+      <a class="nav-cta" href="#survival">The survival guide <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> Philadelphia, Pennsylvania · Sundays, give or take</p>
+        <h1 id="hero-title">A guide to being<br>a <em>Philadelphia</em><br>Eagles fan.</h1>
+        <p class="hero-intro">Welcome. You have chosen a team, a color, and an emotional commitment that may outlast several phone upgrades.</p>
+        <div class="hero-actions">
+          <a class="button button-dark" href="#starter">Start here <span aria-hidden="true">↓</span></a>
+          <span class="hero-note">A field guide for the devoted<br>and the newly initiated.</span>
+        </div>
+        <div class="hero-stamp" aria-hidden="true"><span>EST.</span><strong>GO<br>BIRDS</strong><span>EVERY<br>SUNDAY</span></div>
+      </div>
+      <figure class="hero-photo">
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lincoln_Financial_Field,_Philadelphia,_2024.jpg?width=1600" alt="Lincoln Financial Field in Philadelphia, seen from the stands before an Eagles game" fetchpriority="high">
+        <figcaption><span>THE HOME TURF</span><a href="https://commons.wikimedia.org/wiki/File:Lincoln_Financial_Field,_Philadelphia,_2024.jpg" target="_blank" rel="noreferrer">Photo: JJonahJackalope / Wikimedia Commons, CC BY-SA 4.0</a></figcaption>
+        <span class="photo-index" aria-hidden="true">01 / PHILLY</span>
+      </figure>
+      <div class="hero-bottomline"><span>THE FEELINGS ARE REAL.</span><span>THE GUIDE IS MOSTLY SERIOUS.</span><span class="scroll-cue">SCROLL TO PREPARE ↓</span></div>
+    </section>
+
+    <section class="readiness-band" aria-labelledby="readiness-title">
+      <div class="readiness-label"><p class="eyebrow">A VERY SCIENTIFIC SCALE</p><h2 id="readiness-title">Fan readiness<br><em>meter</em></h2></div>
+      <div class="meter-wrap">
+        <div class="meter-head"><label for="readiness-slider">MOVE THE MARKER TO YOUR CURRENT STATUS</label><span class="meter-status"><i></i> YOUR CALL</span></div>
+        <input class="meter-slider" id="readiness-slider" type="range" min="0" max="100" value="58" step="1" aria-label="Fan readiness. Zero means just learned the roster; one hundred means you have explained clock management to a stranger at the grocery store.">
+        <div class="meter-labels"><span>I just learned the roster</span><span>I have explained clock management<br>to a stranger at the grocery store</span></div>
+      </div>
+      <div class="meter-doodle" aria-hidden="true">
+        <svg viewBox="0 0 170 120" role="presentation"><path d="M22 85c29-37 59-51 104-54M26 91c31-20 62-22 105-17M102 23l28 7-14 23"/><path d="M41 79c8-13 17-18 28-21M55 91c7-9 15-13 24-15"/></svg>
+        <span>PREPARED<br>ISH</span>
+      </div>
+    </section>
+
+    <section class="section starter-section" id="starter" aria-labelledby="starter-title">
+      <div class="section-kicker"><span>01</span><span>THE STARTER GUIDE</span><span class="kicker-line"></span></div>
+      <div class="starter-grid">
+        <div>
+          <h2 class="section-title" id="starter-title">Your first<br><em>game day.</em></h2>
+          <p class="section-lede">Start with the essentials. The rest can be learned through observation, snacks, and increasingly specific opinions.</p>
+          <div class="callout"><span class="callout-symbol" aria-hidden="true">!</span><p>Going to Lincoln Financial Field? Check the venue’s current rules before you go. <span>Being prepared is a winning tradition.</span></p></div>
+        </div>
+        <div class="starter-list">
+          <article class="starter-item"><span class="item-number">01</span><div><h3>Wear green.</h3><p>Any shade will do. Confidence helps.</p></div><span class="item-icon" aria-hidden="true">●</span></article>
+          <article class="starter-item"><span class="item-number">02</span><div><h3>Learn “Go Birds.”</h3><p>Greeting, farewell, affirmation. A flexible phrase.</p></div><span class="item-icon bird-icon" aria-hidden="true">↗</span></article>
+          <article class="starter-item"><span class="item-number">03</span><div><h3>Check the weather.</h3><p>Philadelphia has seasons. Football has all of them.</p></div><span class="item-icon" aria-hidden="true">☼</span></article>
+          <article class="starter-item"><span class="item-number">04</span><div><h3>Remember: “it’s early.”</h3><p>A sincere observation, a coping strategy, or both.</p></div><span class="item-icon" aria-hidden="true">◷</span></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="rituals-section" id="rituals" aria-labelledby="rituals-title">
+      <div class="ritual-photo-wrap">
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Skyline_Philadelphia_Pennsylvania.JPG?width=1000" alt="Philadelphia skyline viewed from the PSFS Building" loading="lazy">
+        <p class="photo-credit"><a href="https://commons.wikimedia.org/wiki/File:Skyline_Philadelphia_Pennsylvania.JPG" target="_blank" rel="noreferrer">Photo: Renato Prestinenzi / Wikimedia Commons, CC BY-SA 3.0</a></p>
+        <div class="photo-note">A CITY THAT<br>SHOWS UP.</div>
+      </div>
+      <div class="ritual-copy">
+        <div class="section-kicker section-kicker-light"><span>02</span><span>GAME-DAY RITUALS</span></div>
+        <h2 class="section-title" id="rituals-title">The sacred<br><em>pregame routine.</em></h2>
+        <p class="ritual-intro">A five-step process, refined over years of completely reasonable behavior.</p>
+        <ol class="ritual-list">
+          <li><span>01</span><p>Put on the jersey.</p><b aria-hidden="true">✓</b></li>
+          <li><span>02</span><p>Say, “I’m feeling good about this one,” with whatever evidence you have.</p><b aria-hidden="true">✓</b></li>
+          <li><span>03</span><p>Gather your snacks and drinks (may need a lot).</p><b aria-hidden="true">✓</b></li>
+          <li><span>04</span><p>Tell yourself not to yell at the TV.</p><b aria-hidden="true">✓</b></li>
+          <li><span>05</span><p>Yell at the TV like the players and coaches can hear you.</p><b aria-hidden="true">✓</b></li>
+        </ol>
+        <span class="handwritten">tradition is tradition</span>
+      </div>
+    </section>
+
+    <section class="section glossary-section" id="glossary" aria-labelledby="glossary-title">
+      <div class="section-kicker"><span>03</span><span>THE EAGLES FAN GLOSSARY</span><span class="kicker-line"></span></div>
+      <div class="glossary-heading"><h2 class="section-title" id="glossary-title">Learn the<br><em>local language.</em></h2><p>Four phrases to get you through a game, a goodbye, and at least one questionable second-half decision.</p></div>
+      <div class="glossary-grid">
+        <article class="glossary-card"><span class="glossary-count">01 / THE ALL-PURPOSE</span><h3>“Go Birds.”</h3><p>Greeting, farewell, affirmation, and occasionally a complete conversation.</p><span class="glossary-scribble" aria-hidden="true">↗</span></article>
+        <article class="glossary-card"><span class="glossary-count">02 / THE REASSURANCE</span><h3>“We still have time.”</h3><p>A mathematically flexible phrase.</p><span class="glossary-scribble" aria-hidden="true">◷</span></article>
+        <article class="glossary-card"><span class="glossary-count">03 / THE OBSERVATION</span><h3>“That’s a penalty.”</h3><p>A neutral observation that may become louder if repeated.</p><span class="glossary-scribble" aria-hidden="true">!</span></article>
+        <article class="glossary-card glossary-card-green"><span class="glossary-count">04 / THE STORAGE PLAN</span><h3>“Next week.”</h3><p>The place where all reasonable expectations are temporarily stored.</p><span class="glossary-scribble" aria-hidden="true">→</span></article>
+      </div>
+    </section>
+
+    <section class="survival-section" id="survival" aria-labelledby="survival-title">
+      <div class="survival-topline"><span>FIELD NOTES / 04</span><span>FOR USE AFTER THE FINAL WHISTLE</span></div>
+      <div class="survival-content">
+        <div class="survival-heading"><p class="eyebrow">THE SURVIVAL GUIDE</p><h2 class="section-title" id="survival-title">We lost.<br><em>Now what?</em></h2><p>First: take a breath. This is a guide, not a diagnosis.</p></div>
+        <ol class="survival-steps">
+          <li><span>01</span><p>Step away from the group chat if needed.</p></li>
+          <li><span>02</span><p>Drink and eat more.</p></li>
+          <li><span>03</span><p>Remember that one game cannot define your character, your city, or your ability to continue your day.</p></li>
+          <li><span>04</span><p>Re-enter the conversation when you’re ready to discuss the game in a calm and measured way—or not so calm.</p></li>
+        </ol>
+      </div>
+      <div class="survival-footer"><span>YOU SHOWED UP.</span><span>THAT COUNTS FOR SOMETHING.</span><span aria-hidden="true">✳</span></div>
+    </section>
+
+    <section class="section quiz-section" id="quiz" aria-labelledby="quiz-title">
+      <div class="section-kicker"><span>05</span><span>THE QUICK CHECK</span><span class="kicker-line"></span></div>
+      <div class="quiz-heading">
+        <div><p class="eyebrow">THREE QUESTIONS. NO PRESSURE.</p><h2 class="section-title" id="quiz-title">How’s your<br><em>fan progress?</em></h2></div>
+        <p>Answer from memory, then reveal each answer. Give yourself one point for each correct answer and check your score below.</p>
+      </div>
+      <div class="quiz-list">
+        <article class="quiz-question">
+          <span class="quiz-number">QUESTION 01</span><h3>What’s the first step in the sacred pregame routine?</h3>
+          <details class="quiz-answer"><summary>Reveal answer</summary><p>Put on the jersey. The ritual starts with the uniform.</p></details>
+        </article>
+        <article class="quiz-question">
+          <span class="quiz-number">QUESTION 02</span><h3>Before going to Lincoln Financial Field, what should you check?</h3>
+          <details class="quiz-answer"><summary>Reveal answer</summary><p>Check the venue’s current rules before you go.</p></details>
+        </article>
+        <article class="quiz-question">
+          <span class="quiz-number">QUESTION 03</span><h3>Which phrase is described as “mathematically flexible”?</h3>
+          <details class="quiz-answer"><summary>Reveal answer</summary><p>“We still have time.” Its flexibility is part of its usefulness.</p></details>
+        </article>
+      </div>
+      <details class="quiz-score">
+        <summary>Check your progress <span aria-hidden="true">＋</span></summary>
+        <div class="score-guide"><p><strong>0–1 correct:</strong> Starter status. Keep the guide handy.</p><p><strong>2 correct:</strong> Watch-party ready. You know the routines and the lingo.</p><p><strong>3 correct:</strong> Prepared-ish. Go forth and say “Go Birds.”</p></div>
+      </details>
+    </section>
+
+    <footer class="site-footer" id="about">
+      <a class="wordmark footer-wordmark" href="#top"><span class="wordmark-mark" aria-hidden="true">B</span><span><strong>BIRDS</strong><small>A FIELD GUIDE</small></span></a>
+      <p>An independent fan-made guide to the traditions and feelings of Eagles fandom. Made with affection, mild exaggeration, and no claim to speak for every fan.</p>
+      <div class="footer-meta"><span>GO BIRDS. TAKE CARE OF YOURSELF.</span><a href="#top">BACK TO TOP ↑</a></div>
+      <p class="fine-print">Not affiliated with or endorsed by the Philadelphia Eagles or the NFL. Stadium and city photos linked to their sources and credited in place.</p>
+    </footer>
+  </main>
+</body>
+</html>
